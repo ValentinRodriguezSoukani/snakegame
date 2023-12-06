@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "snakegame123": {
+      "hosting": {
+        "snake-game": [
+          "snakegame123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "snakegame123"
+  }
+}
